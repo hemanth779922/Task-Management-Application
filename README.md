@@ -116,15 +116,6 @@ http://localhost/task-management/register.php
 6. Delete tasks when no longer needed.
 7. Logout securely.
 
-## Screenshots
-
-Add screenshots of:
-- Registration Page
-- Login Page
-- Dashboard
-- Add Task
-- Edit Task
-
 ## Future Enhancements
 
 - Task Priority
